@@ -1,0 +1,6 @@
+{
+  "name": "Cinematic Space-Travel Landing Page",
+  "description": "A premium cinematic landing page for space travel featuring custom crossfading background loop videos, liquid-glass design system, and word-by-word blur-in text effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
